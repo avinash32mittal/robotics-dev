@@ -80,3 +80,29 @@ Observe
 Build systems.
 
 Not collections.
+
+---
+
+## Rule 9
+
+Understand
+
+↓
+
+Implement
+
+↓
+
+Validate
+
+↓
+
+Document
+
+↓
+
+Commit
+
+↓
+
+Push

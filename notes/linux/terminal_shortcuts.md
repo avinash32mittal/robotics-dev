@@ -178,3 +178,48 @@ grep hello file.txt
 # Productivity Rule
 
 Keyboard before mouse.
+
+# Linux Terminal Shortcuts
+
+Ctrl + C
+Interrupt running process
+
+Ctrl + D
+Exit shell / End input
+
+Ctrl + L
+Clear screen
+
+Ctrl + A
+Beginning of line
+
+Ctrl + E
+End of line
+
+Ctrl + U
+Delete to beginning
+
+Ctrl + K
+Delete to end
+
+Ctrl + W
+Delete previous word
+
+Ctrl + R
+Search command history
+
+Tab
+Autocomplete
+
+Up Arrow
+Previous command
+
+Down Arrow
+Next command
+
+!!
+
+Run previous command
+
+history
+Show command history

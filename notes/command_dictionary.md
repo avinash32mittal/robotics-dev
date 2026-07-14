@@ -228,3 +228,16 @@ Path displayed.
 Notes:
 
 Useful when lost.
+
+| Command                   | Meaning                                         | Example                                              |
+| ------------------------- | ----------------------------------------------- | ---------------------------------------------------- |
+| `git remote add origin`   | Connect local repository to a remote repository | `git remote add origin git@github.com:user/repo.git` |
+| `git remote -v`           | Show configured remote repositories             | `git remote -v`                                      |
+| `git push`                | Upload commits to remote repository             | `git push`                                           |
+| `git push -u origin main` | First push and establish upstream tracking      | `git push -u origin main`                            |
+| `git branch -vv`          | Show branches and upstream tracking             | `git branch -vv`                                     |
+| `ssh-keygen`              | Generate SSH key pair                           | `ssh-keygen -t ed25519 -C "email"`                   |
+| `ssh -T`                  | Test SSH authentication without opening a shell | `ssh -T git@github.com`                              |
+| `ssh -vT`                 | Verbose SSH authentication for debugging        | `ssh -vT git@github.com`                             |
+| `cat`                     | Display the contents of a file                  | `cat ~/.ssh/id_ed25519.pub`                          |
+| `ls -la`                  | Long listing including hidden files             | `ls -la ~/.ssh`                                      |

@@ -176,3 +176,31 @@ Git
 ↓
 
 Repeat
+
+
+
+
+
+Ctrl + C
+Interrupt running program
+
+Ctrl + D
+End-of-file / Exit many shells & interpreters
+
+Ctrl + `
+Toggle terminal
+
+Ctrl + Shift + P
+Command Palette
+
+Ctrl + P
+Quick Open
+
+Ctrl + B
+Toggle Explorer
+
+Ctrl + J
+Toggle bottom panel
+
+Ctrl + Shift + E
+Explorer

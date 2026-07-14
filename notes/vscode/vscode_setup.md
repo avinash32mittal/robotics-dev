@@ -64,3 +64,79 @@ Ctrl + `
 Lesson
 
 Reduce context switching.
+
+# Installed
+
+✓ Visual Studio Code (.deb)
+
+---
+
+# Extensions
+
+Python
+
+Pylance
+
+Black Formatter
+
+Material Icon Theme
+
+GitLens
+
+Error Lens
+
+TODO Tree
+
+Markdown All in One
+
+---
+
+# Login
+
+GitHub Account
+
+Reason
+
+- GitHub synchronization
+- GitHub Copilot support
+- Source Control integration
+
+---
+
+# Workspace
+
+robotics-dev
+
+---
+
+# Python
+
+Interpreter
+
+Python 3
+
+Formatter
+
+Black
+
+Format on Save
+
+Enabled
+
+---
+
+# Git
+
+SSH Authentication
+
+Remote Repository Connected
+
+GitHub Push/Pull Working
+
+---
+
+# Theme
+
+Material Icon Theme
+
+Dark Theme

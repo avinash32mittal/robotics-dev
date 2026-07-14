@@ -364,3 +364,51 @@ Runtime
 Lesson:
 
 Configuration determines behavior.
+
+---
+
+## Linux File Permissions
+
+d
+Directory
+
+-
+Regular File
+
+l
+Symbolic Link
+
+Permission structure:
+
+rwx | r-x | ---
+Owner Group Others
+
+---
+
+## Special Directories
+
+.
+Current directory
+
+..
+Parent directory
+
+~
+Home directory
+
+---
+
+## Hidden Files
+
+Files beginning with:
+
+.
+
+are hidden.
+
+Examples:
+
+.git
+.ssh
+.bashrc
+.profile
